@@ -118,7 +118,7 @@ METHODS
     for a datase. See the SQLite documentation for more details.
 
 SUPPORT
-    ORDB::CPANMeta is based on ORLite 1.22 and ORLite::Mirror 1.14.
+    ORDB::CPANMeta is based on ORLite 1.22 and ORLite::Mirror 1.15.
 
     Documentation created by ORLite::Pod 0.06.
 
